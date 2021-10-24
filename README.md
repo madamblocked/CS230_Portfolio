@@ -1,1 +1,4 @@
 # CS230_Portfolio
+
+In our approach to creating this document, we worked with The Gaming Room to help produce their application Draw It or Lose It.
+Their request was a web-based, cross-platform application with some software requirements. These included some uniqueness to user names when creating team names and other specifications. In the design process, it was beneficial to have plenty of resources at my disposal; this included source code in Java that was well-documented, but also a UML class diagram that was significantly useful in building out the code. One thing I noticed that would be different in a working environment was the lack of a true team in this project -- there were some parts of the Java code that I did not understand, and it would've been great to meet with other devs on the team to walk through that code and learn its intent within the program.
